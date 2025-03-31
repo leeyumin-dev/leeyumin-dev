@@ -16,6 +16,7 @@
 </p>
 
 <h2 align="center">📍Link📍</h2> 
+<p align="center">[Notion](https://jasper-cobalt-536.notion.site/MAIN-efb3493f64f443d9aecbe62185f27733?pvs=4) </p>
 
 <!-- <h2 align="center">📚 Learning Tech Stack 📚</h2> 
 <p align="center"> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Kubernetes&logoColor=white"/> </p>
