@@ -4,7 +4,8 @@
 <p align="center">- <strong> NLP AI 엔진 개발 (2021 ~ 2024) </strong> </p>
 <p align="center">- <strong> 컨테이너 기반 서비스 운영과 서버 관리 (2021 ~ 2024) </strong> </p>
 <p align="center">- <strong> ML 연구논문 게재 </strong> </p>
-<p align="center">- <strong> AI 앱 개발 프로젝트 </strong> </p>
+<p align="center">- <strong> AI 화장품 발림성 예측 모델 개발 프로젝트 </strong> </p>
+<p align="center">- <strong> AI 식단관리 앱 개발 프로젝트 </strong> </p>
 <p align="center">- 2025~ KTAVLE 부트 캠프 </p>
 
 <h2 align="center"> 💻 Tech Stack 💻</h2> 
