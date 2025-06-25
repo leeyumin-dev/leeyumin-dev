@@ -1,4 +1,4 @@
-<h3 align="center"> Hi there 👋 </h3>
+<h3 align="center"> 안녕하세요. AI 엔지니어 이유민입니다. </h3>
 
 <h2 align="center"> 🌟 My Careers 🌟 </h2>
 <p align="center">- <strong> NLP AI 엔진 개발 (2021 ~ 2024) </strong> </p>
@@ -17,6 +17,7 @@
 <p align="center"> <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/> <img src="https://img.shields.io/badge/flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/> </p>
 
 <h2 align="center">📍Link📍</h2> 
+<p align="center"> ... </p>
 <p align="center"> </p>
 
 <!-- <h2 align="center">📚 Learning Tech Stack 📚</h2> 
