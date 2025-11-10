@@ -4,13 +4,12 @@
 - DocumentAI 솔루션의 AI 엔진 개발 (2021 ~ 2024)
 - 컨테이너 기반 솔루션 운영과 서버 관리 (2021 ~ 2024)
 - 솔루션 설치 및 설치 패키지 생성 (2021 ~ 2024)
-- 다수 고객사 AI 프로젝트 리딩
+- 다수 고객사 AI 프로젝트 리딩 (2021 ~ 2024)
 ## 🚀 Experience
 - ML 연구 논문 게재 🔗[PDF](https://drive.google.com/file/d/1FqMPztaxG17NcMiZqTfCLTN3zTmkQ8c-/view?usp=sharing)
 - AI 화장품 발림성 개발 프로젝트 🔗[GIT](https://github.com/yuumiin/AI_project)
 - AI 식단관리 앱 개발 프로젝트 🔗[GIT](https://github.com/deeplearningTeamSeven/AI_App_project)
-- AI 양재 허브
-- KTAIVLE 부트 캠프
+- KTAIVLE 부트 캠프 - AI 코드 변환 웹 서비스 개발 프로젝트 🔗 [GIT](https://github.com/ai-migration)
 
 ## 🛠️ Tech Stack
 <p> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> </p> 
@@ -22,9 +21,8 @@
 <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white"/> </p>
 
 ## 🔗 Link
-📝 [경력기술서](https://www.notion.so/14b7bde02a6680788b7efa84071950b4?source=copy_link)
-<br/>
-<img src="https://img.shields.io/badge/-FFFFFF?style=flat-square&logo=notion&logoColor=black"/> [개발 노션](https://jasper-cobalt-536.notion.site/efb3493f64f443d9aecbe62185f27733?source=copy_link)
+📝 [경력기술서](https://leeyumin.notion.site/14b7bde02a6680788b7efa84071950b4?source=copy_link) <br/>
+<img src="https://img.shields.io/badge/-FFFFFF?style=flat-square&logo=notion&logoColor=black"/> [개발 노션](https://leeyumin.notion.site/efb3493f64f443d9aecbe62185f27733?source=copy_link)
 </br>
 
 ## 📬 Contact 
